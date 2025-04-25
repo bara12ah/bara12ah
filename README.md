@@ -1,5 +1,5 @@
 # 💫 About Me:
- i am a student at BU
+ I am a student at BU
 
 
 # 💻 Tech Stack:
